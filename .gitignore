@@ -1,0 +1,13 @@
+# Build outputs
+native_app
+sandboxed_app
+build_objs/
+*.o
+
+# Generated build folders
+third_party/wabt/build/
+third_party/rlbox_wasm2c_sandbox/build/
+
+# OS/editor files
+.DS_Store
+.vscode/

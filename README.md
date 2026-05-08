@@ -37,7 +37,7 @@ The included binaries were built in GitHub Codespaces/Linux. They may not run di
 
 Open the repository in GitHub Codespaces:
 
-1. Go to the GitHub repository.
+1. Go to the GitHub repository: https://github.com/sam-abdul/rlbox-project.
 2. Click **Code**.
 3. Select the **Codespaces** tab.
 4. Click **Create codespace on main**.

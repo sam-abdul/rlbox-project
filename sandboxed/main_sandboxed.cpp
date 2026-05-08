@@ -81,8 +81,8 @@ int main() {
     auto sandbox_large = sandbox.malloc_in_sandbox<char>(large_len + 1);
     rlbox::strncpy(sandbox, sandbox_large, large, large_len + 1);
 
-    std::cout << "Overflow test prepared but skipped in main demo because wasm2c traps abort the process." << std::endl;
-    std::cout << "Use native_app to show the crash baseline." << std::endl;
+    // std::cout << "Overflow test prepared but skipped in main demo because wasm2c traps abort the process." << std::endl;
+    // std::cout << "Use native_app to show the crash baseline." << std::endl;
 
     sandbox.free_in_sandbox(sandbox_large);
 

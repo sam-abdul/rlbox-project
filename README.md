@@ -47,3 +47,4 @@ Open the repository in GitHub Codespaces:
 ```bash
 chmod +x run_demo.sh
 ./run_demo.sh
+```

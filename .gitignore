@@ -1,6 +1,5 @@
 # Build outputs
-native_app
-sandboxed_app
+
 build_objs/
 *.o
 
